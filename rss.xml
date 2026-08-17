@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>XXF Studio</title>
+        <link>https://fenghecsn.top</link>
+        <description>小小枫的个人博客，记录技术学习、UI 设计、产品知识、绘画练习与生活随笔。</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 18 Aug 2026 03:20:02 +0800</pubDate>
+        <lastBuildDate>Tue, 18 Aug 2026 03:20:02 +0800</lastBuildDate>
+        <category>博客重构</category>
+        <category>ShokaX</category>
+        <category>UI设计</category>
+        <item>
+            <guid isPermalink="true">https://fenghecsn.top/2026/08/18/test-one/</guid>
+            <title>测试</title>
+            <link>https://fenghecsn.top/2026/08/18/test-one/</link>
+            <pubDate>Tue, 18 Aug 2026 03:20:02 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;test-cover.png&#34; alt=&#34;测试文章图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;111&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://fenghecsn.top/2026/08/18/test-two/</guid>
+            <title>测试</title>
+            <link>https://fenghecsn.top/2026/08/18/test-two/</link>
+            <pubDate>Tue, 18 Aug 2026 03:20:01 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;test-cover.png&#34; alt=&#34;测试文章图片&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;111&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://fenghecsn.top/2026/08/18/rebuilding-xxf-studio/</guid>
+            <title>重构博客：让这里重新成为一间小小工作室</title>
+            <link>https://fenghecsn.top/2026/08/18/rebuilding-xxf-studio/</link>
+            <category>博客重构</category>
+            <category>ShokaX</category>
+            <category>UI设计</category>
+            <pubDate>Tue, 18 Aug 2026 00:20:09 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;有些改变，并不是为了把过去全部推翻，而是为了让那些真正喜欢的东西，拥有更合适的位置。&lt;/p&gt;
+&lt;p&gt;于是，我重新整理了这个博客。&lt;/p&gt;
+&lt;p&gt;它现在有了一个新的名字——&lt;strong&gt;XXF Studio&lt;/strong&gt;。这里仍然属于小小枫，但它不再只是一处存放文章的空间，而更像一间慢慢布置起来的小小工作室：可以写代码，可以画画，可以整理想法，也可以安静地收藏生活里那些值得记住的片刻。&lt;/p&gt;
+&lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;为什么想要重构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为什么想要重构&#34;&gt;#&lt;/a&gt; 为什么想要重构&lt;/h2&gt;
+&lt;p&gt;最开始搭建博客时，我更在意“它能不能运行”。只要页面能够打开、文章能够发布，好像就已经完成了目标。&lt;/p&gt;
+&lt;p&gt;但随着学习的内容越来越多，我逐渐发现，博客不应该只是一个文章列表。&lt;/p&gt;
+&lt;p&gt;我喜欢绘画，也正在学习 UI 设计和产品相关知识；与此同时，我仍然会接触技术、完成项目、整理学习笔记。它们看起来属于不同的方向，却共同组成了现在的我。如果网站只能呈现其中很小的一部分，那它就很难真正成为我的个人空间。&lt;/p&gt;
+&lt;p&gt;所以这次重构的目标，不只是换一种颜色或更换一张背景图，而是重新思考：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我希望别人来到这里时，能够看到怎样的我？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;答案大概是——一个还在成长、还在尝试，也愿意认真记录过程的学生。&lt;/p&gt;
+&lt;h2 id=&#34;从博客到-xxf-studio&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#从博客到-xxf-studio&#34;&gt;#&lt;/a&gt; 从博客到 XXF Studio&lt;/h2&gt;
+&lt;p&gt;这次调整中，我先清理了旧页面和重复内容，让网站重新回到一个干净的起点。随后，我将原来的主题替换为 &lt;strong&gt;ShokaX&lt;/strong&gt;，希望借助它更轻盈、更具有二次元气息的视觉语言，为内容留下更多想象空间。&lt;/p&gt;
+&lt;p&gt;首页依然保留了那张很喜欢的青绿色插画。树影、街道、猫与背着乐器的少女，让整个页面像一段尚未写完的故事。它也恰好对应了我想要的感觉：安静、清新，带一点艺术气息，同时保留继续向前走的可能。&lt;/p&gt;
+&lt;p&gt;重构后的视觉方向主要围绕以下几个关键词展开：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;青绿色&lt;/strong&gt;：清新、安静，也带有一点属于数字世界的冷色感。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;绘画与设计&lt;/strong&gt;：让图片不再只是装饰，而成为网站内容的一部分。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;二次元气息&lt;/strong&gt;：保留喜欢的视觉元素，但不过度堆叠。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;长期记录&lt;/strong&gt;：让文章、项目和作品都能随着时间持续积累。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;这里以后会有什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#这里以后会有什么&#34;&gt;#&lt;/a&gt; 这里以后会有什么&lt;/h2&gt;
+&lt;p&gt;现在的网站还只是刚刚整理好的房间，很多位置仍然空着。但空白并不意味着缺少内容，它更像是为未来留下的画布。&lt;/p&gt;
+&lt;p&gt;接下来，我会逐步把这些内容放进来：&lt;/p&gt;
+&lt;h3 id=&#34;学习笔记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习笔记&#34;&gt;#&lt;/a&gt; 学习笔记&lt;/h3&gt;
+&lt;p&gt;记录技术基础、UI 设计、产品思维，以及学习过程中真正解决过的问题。比起复制结论，我更希望留下自己理解知识的过程。&lt;/p&gt;
+&lt;h3 id=&#34;项目实践&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#项目实践&#34;&gt;#&lt;/a&gt; 项目实践&lt;/h3&gt;
+&lt;p&gt;展示开发项目、界面设计和产品练习。这里不仅会有最终效果，也会记录需求、思路、设计取舍与复盘。&lt;/p&gt;
+&lt;h3 id=&#34;我的画作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我的画作&#34;&gt;#&lt;/a&gt; 我的画作&lt;/h3&gt;
+&lt;p&gt;整理绘画练习、色彩尝试、临摹与原创作品。即使作品还不成熟，它们也是成长轨迹中真实的一部分。&lt;/p&gt;
+&lt;h3 id=&#34;文章与生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文章与生活&#34;&gt;#&lt;/a&gt; 文章与生活&lt;/h3&gt;
+&lt;p&gt;写下一些技术之外的内容：喜欢的事物、偶然产生的想法，以及日常生活里安静而具体的瞬间。&lt;/p&gt;
+&lt;h2 id=&#34;重构并不是结束&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#重构并不是结束&#34;&gt;#&lt;/a&gt; 重构并不是结束&lt;/h2&gt;
+&lt;p&gt;一个网站真正有趣的地方，并不是它在某一天终于“完成”，而是它会随着创作者一起变化。&lt;/p&gt;
+&lt;p&gt;也许以后我会再次调整颜色，重新设计首页，加入新的栏目；也许现在看起来满意的地方，过一段时间又会觉得不够好。但这并不矛盾。设计、写作和学习本来就是不断修改、不断靠近理想状态的过程。&lt;/p&gt;
+&lt;p&gt;这次重构只是一个新的开始。&lt;/p&gt;
+&lt;p&gt;我希望 &lt;strong&gt;XXF Studio&lt;/strong&gt; 最终能够成为一张属于自己的数字名片，也成为一册持续生长的创作档案。它记录的不只是“我做过什么”，还有“我是怎样一步一步走到这里的”。&lt;/p&gt;
+&lt;p&gt;欢迎来到小小枫的个人空间。&lt;/p&gt;
+&lt;p&gt;在代码与生活之间，保持好奇，持续记录。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
